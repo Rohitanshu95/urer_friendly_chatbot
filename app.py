@@ -27,8 +27,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Sidebar with logo
-st.sidebar.image("C:/Users/ASUS/Downloads/9a1133d4af3b637e1c6c8ff251785f27-removebg-preview.png", 
+# Sidebar with logo (Updated Path)
+st.sidebar.image(r"C:\Users\ASUS\Downloads\images__1_-removebg-preview.png", 
                  caption="🤖 Gemini Chatbot", 
                  use_column_width=True)
 
